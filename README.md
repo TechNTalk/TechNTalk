@@ -1,4 +1,4 @@
-As a dedicated Data Analyst, I specialize in employing statistical and analytical approaches to derive insights from data. Proficient in Python, SQL, and various data visualization tools, I approach every project with a genuine passion. 
+As a dedicated Business Analyst with a strong comprehension in data anaylsis, I specialize in employing statistical and analytical approaches to derive insights from data. Proficient in Python, SQL, and various data visualization tools, I approach every project with a genuine passion. 
 With a solid background in analytical research, team leadership, business analytics, and training & development, I’ve consistently demonstrated the ability to not only meet but exceed ambitious quotas and deadlines. 
 
 - 🔭 I am presently engaged in developing a predictive machine learning model focused on the housing market. The aim is to ascertain the price based on a set of provided features.
